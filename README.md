@@ -1,1 +1,1 @@
-# Proje hakkındaki gerekli bilgiler 'Proje hakkında...' adlı word dosyası içinde yer almaktadır.
+# Proje hakkındaki gerekli bilgiler 'Proje hakkında... ' açıklamalı word dosyası içinde yer almaktadır.
